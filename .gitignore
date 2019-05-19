@@ -4,13 +4,13 @@
 embeddings/data/
 embeddings/text8.zip
 face_generation/data/
+convolutional-neural-networks/cifar-cnn/data/
 Cat_Dog
 .ipynb_checkpoints/
-
-
 *.pyc
 *.p
 *.pkl 
-
+*.pt
+*.pth
 */.floyd*
 
